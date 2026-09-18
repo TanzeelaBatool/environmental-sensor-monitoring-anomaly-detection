@@ -1,0 +1,7 @@
+Metric,Value
+Total observations,9357.0
+Temperature observations,8991.0
+Temperature IQR anomalies,3.0
+Isolation Forest anomalies,70.0
+Total unique anomalies,73.0
+Percentage of observations flagged,0.78
