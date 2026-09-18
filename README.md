@@ -86,23 +86,13 @@ The Isolation Forest identified 70 multivariate anomalies among the complete obs
 
 ## Key Results
 
-| Metric | Result |
-|---|---:|
-| Total observations | 9,357 |
-| Temperature observations | 8,991 |
-| Temperature IQR anomalies | 3 |
-| Isolation Forest anomalies | 70 |
-| Total unique anomalies | 73 |
-| Percentage flagged | 0.78% |
-
-The IQR method and Isolation Forest identified different observations, with no overlap between the two methods.
-
-The multivariate anomaly group showed notable differences in CO and NO2 compared with normal observations:
-
-- CO mean: 2.15 → 5.41
-- NO2 mean: 112.78 → 221.10
-
-These differences represent associations observed in the dataset and should not be interpreted as evidence of causation.
+- Analyzed **9,357 timestamped environmental observations**.
+- Identified **3 temperature anomalies** using the Interquartile Range (IQR) method.
+- Detected **70 multivariate anomalies** using Isolation Forest.
+- Identified **73 unique anomalous observations**, representing approximately **0.78%** of the analyzed dataset.
+- ML-detected anomalies showed substantially different CO and NO₂ levels compared with normal observations.
+- Performed missing-data analysis and documented data-quality limitations.
+- Combined statistical and machine-learning approaches to examine unusual environmental conditions.
 
 ## Data Quality
 
