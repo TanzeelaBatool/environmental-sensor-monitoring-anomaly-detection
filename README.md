@@ -33,14 +33,16 @@ Selected variables used in this project include:
 - Carbon Monoxide (CO)
 - Nitrogen Dioxide (NO2)
 
-## Tools & Technologies
+## Skills & Technologies
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Google Colab
+- **Programming:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Matplotlib
+- **Machine Learning:** Scikit-learn, Isolation Forest
+- **Environmental Data Science:** Environmental sensor data analysis, anomaly detection, missing-data analysis
+- **Statistical Methods:** IQR-based outlier detection, descriptive statistics
+- **Data Processing:** Data cleaning, timestamp processing, missing-value handling
+- **Domain:** Climate Change & Environmental Informatics
 
 ## Methodology
 
