@@ -1,11 +1,13 @@
 
 # Environmental Sensor Monitoring & Anomaly Detection
 
-## Project Overview
+## Overview
 
-This project analyzes real-world environmental sensor data to identify unusual environmental conditions using statistical and machine-learning-based anomaly detection methods.
+This project analyzes real-world environmental sensor data to identify unusual environmental conditions and potential sensor anomalies.
 
-The project combines environmental data analysis, statistical methods, and unsupervised machine learning to investigate anomalies in air-quality and meteorological sensor observations.
+Using the UCI Air Quality dataset, the project combines statistical outlier detection with machine learning-based anomaly detection. Environmental variables including temperature, relative humidity, absolute humidity, carbon monoxide (CO), and nitrogen dioxide (NO₂) are analyzed to identify observations that differ from typical environmental patterns.
+
+The project demonstrates a practical workflow for environmental data science, including data cleaning, missing-data analysis, exploratory visualization, statistical anomaly detection, multivariate machine learning, and interpretation of environmental sensor observations.
 
 ## Objectives
 
