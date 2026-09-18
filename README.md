@@ -116,13 +116,11 @@ Missing values were retained in the final dataset rather than being artificially
 
 ## Visualizations
 
-The project includes:
+### 1. Environmental Sensor Anomaly Timeline
+![Environmental Sensor Anomaly Timeline](environmental_sensor_anomalies_timeline.png)
 
-1. Environmental sensor anomaly timeline
-2. Missing-data overview
-3. CO vs NO2 distribution of normal and ML-anomalous observations
-4. Temperature variation over time
-5. Normal vs anomalous environmental conditions
+### 2. Missing Data Overview
+![Missing Data Overview](missing_data_overview.png)
 
 ## Limitations
 
